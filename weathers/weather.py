@@ -1,4 +1,4 @@
-mport requests
+import requests
 
 def get_weather_forecast():
     # Connecting to the weather api
